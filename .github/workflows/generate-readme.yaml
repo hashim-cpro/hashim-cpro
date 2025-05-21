@@ -11,18 +11,17 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    # THIS IS THE CRUCIAL PART YOU NEED TO ADD/VERIFY
     permissions:
-      contents: write # This grants the GITHUB_TOKEN write access to your repo
+      contents: write
     steps:
       - uses: actions/checkout@v4
 
       - name: Generate README
+        # THIS IS THE CRUCIAL CHANGE: Use the charmbracelet/markscribe action
         uses: charmbracelet/markscribe@master
         env:
-          # Your PERSONAL_GITHUB_TOKEN is for markscribe to READ your data,
-          # not for the bot to PUSH changes to the repo.
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         with:
           template: "README.md.tpl"
           writeTo: "README.md"
