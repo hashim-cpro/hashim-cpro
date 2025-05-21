@@ -6,7 +6,7 @@ I'm a passionate developer focusing on awesome projects.
 
 ## My Latest Projects:
 
-{{- range recentRepos 5 }}
+{{- range recentCreatedRepos "hashim-cpro" 5 }}
 - **{{ .Name }}**
   * Description: {{ .Description }}
   * Stars: {{ .Stargazers }} ⭐
