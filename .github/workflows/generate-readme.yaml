@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate README
-        uses: muesli/readme-scribe@master
+        uses: charmbracelet/markscribe@master
         env:
           # Your PERSONAL_GITHUB_TOKEN is for markscribe to READ your data,
           # not for the bot to PUSH changes to the repo.
