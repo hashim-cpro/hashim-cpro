@@ -27,6 +27,9 @@ I'm a passionate developer focusing on awesome projects.
 - [{{ .Repo.Name }}: {{ .Title }}]({{ .URL }}) ({{ .State }}): {{ humanize .CreatedAt }}
 {{- end }}
 
+### My WakaTime Stats
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 
 
 _This README is automatically generated using [markscribe](https://github.com/muesli/markscribe). Last updated: {{ now | humanize }}_
