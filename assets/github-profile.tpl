@@ -66,3 +66,14 @@ Say Hello, I don't bite!
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/charmbracelet/readme-scribe)!
 
  <!--comments will be preserved -->
+
+
+ ---
+
+## My Latest Blog Posts (from an RSS feed):
+
+{{- range rss "https://your-blog-url.com/feed.xml" 3 }}
+- [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }})
+{{- end }}
+
+---

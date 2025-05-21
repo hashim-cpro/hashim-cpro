@@ -27,14 +27,6 @@ I'm a passionate developer focusing on awesome projects.
 - [{{ .Repo.Name }}: {{ .Title }}]({{ .URL }}) ({{ .State }}): {{ humanize .CreatedAt }}
 {{- end }}
 
----
 
-## My Latest Blog Posts (from an RSS feed):
-
-{{- range rss "https://your-blog-url.com/feed.xml" 3 }}
-- [{{ .Title }}]({{ .URL }}) (Published: {{ humanize .PublishedAt }})
-{{- end }}
-
----
 
 _This README is automatically generated using [markscribe](https://github.com/muesli/markscribe). Last updated: {{ now | humanize }}_
