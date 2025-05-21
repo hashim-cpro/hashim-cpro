@@ -11,16 +11,21 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    # THIS IS THE CRUCIAL PART YOU NEED TO ADD/VERIFY
+    permissions:
+      contents: write # This grants the GITHUB_TOKEN write access to your repo
     steps:
-      - uses: actions/checkout@v4 # Check out your repository code
+      - uses: actions/checkout@v4
 
       - name: Generate README
-        uses: muesli/readme-scribe@master # Use the markscribe GitHub Action
+        uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }} # Pass your PAT
+          # Your PERSONAL_GITHUB_TOKEN is for markscribe to READ your data,
+          # not for the bot to PUSH changes to the repo.
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
-          template: "README.md.tpl" # Your template file
-          writeTo: "README.md" # The output file
+          template: "README.md.tpl"
+          writeTo: "README.md"
 
       - name: Commit and push changes
         run: |
