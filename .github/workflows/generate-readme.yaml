@@ -8,6 +8,8 @@ on:
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- THIS GRANTS WRITE PERMISSION FOR PUSHING
 
     steps:
       - uses: actions/checkout@master
