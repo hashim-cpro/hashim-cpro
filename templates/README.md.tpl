@@ -28,6 +28,11 @@ I'm a passionate developer focusing on awesome projects.
 {{- end }}
 
 
+```
+{{with hackatimeStats}}
+{{ wakatimeLanguages "💾 Languages:" .Data.Languages 5 .Data.HumanReadableTotal }}
+{{end}}
+```
 
 
 _This README is automatically generated using [markscribe](https://github.com/muesli/markscribe). Last updated: {{ now | humanize }}_
