@@ -17,7 +17,7 @@ jobs:
       - uses: "actions-go/go-install@main"
         id: install
         with:
-          module: "github.com/hashim-cpro/markscribe@c32e5c9f83470e96ea1af83c48ccd1269a0a089c"
+          module: "github.com/hashim-cpro/markscribe@MASTER"
 
       - name: generate readme
         env:
