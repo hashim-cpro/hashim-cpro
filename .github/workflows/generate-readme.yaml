@@ -1,9 +1,9 @@
-name: Update README
+name: Update README Automatically
 
 on:
   push:
   schedule:
-    - cron: "0 0,6,12,18 * * *"
+    - cron: "0 * * * *"
 
 jobs:
   markscribe:
