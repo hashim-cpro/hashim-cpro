@@ -38,6 +38,7 @@ I'm a passionate developer focusing on awesome projects.
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (3 months ago)
 
 ### Latest Pull Requests:
+- [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (OPEN): today
 - [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 3 months ago
 - [hackclub/map: Improve Map Accessibility with Local Language Translations and Set Max Zoom Level](https://github.com/hackclub/map/pull/12) (MERGED): 6 months ago
 
@@ -46,13 +47,13 @@ I'm a passionate developer focusing on awesome projects.
 
 
 💾 Languages:
-JavaScript      104h 48m     ████████████░░░░░░░░░░░░░  48.20%
-JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.49%
-HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.34%
-Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
-Markdown        12h          █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
+JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.97%
+JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.34%
+HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.30%
+Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
+Markdown        12h 32m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
 
-Total: 217h 28m 4s
+Total: 218h 30m 54s
 
 
 ```
