@@ -21,22 +21,17 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.82%
-JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.25%
-HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.28%
+JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.79%
+JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.23%
+HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
 Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
 Markdown        12h 47m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
-Total: 219h 10m 47s
+Total: 219h 18m 35s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
 email: hashimcpro@gmail.com
 slack: Hashim (hackclub.com/slack)
 ```
-_readme auto updates on the hour via:_ [markscribe](https://github.com/hashim-cpro/markscribe)
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hashim-cpro.hashim-cpro&left_color=green&right_color=red" alt="visitors">
-
-</div>
+_readme auto updates on the hour via: [markscribe](https://github.com/hashim-cpro/markscribe)_
