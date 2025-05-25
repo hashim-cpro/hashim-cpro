@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (today)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (1 month ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (3 months ago)
