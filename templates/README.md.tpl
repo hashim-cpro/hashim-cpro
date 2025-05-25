@@ -27,9 +27,4 @@
 email: hashimcpro@gmail.com
 slack: Hashim (hackclub.com/slack)
 ```
-_readme auto updates on the hour via:_ [markscribe](https://github.com/hashim-cpro/markscribe)
-
-<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=hashim-cpro.hashim-cpro&left_color=green&right_color=red" alt="visitors">
-
-</div>
+_readme auto updates on the hour via: [markscribe](https://github.com/hashim-cpro/markscribe)_
