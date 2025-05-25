@@ -11,7 +11,7 @@
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (1 month ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (3 months ago)
-- [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (3 months ago)
+- [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) - A community driven web app to help map stray animals (3 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (OPEN): today
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.78%
-JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.23%
+JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.77%
+JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.22%
 HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.27%
 Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
-Markdown        12h 47m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.83%
+Markdown        12h 51m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.86%
 
-Total: 219h 20m 35s
+Total: 219h 24m 35s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
