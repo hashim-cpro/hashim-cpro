@@ -1,62 +1,42 @@
-# Hi there, I'm <no value>! 👋
+[![👋Hi there! I'm Hashim*](/assets/intro.gif "Go To hashim-ali.work")](https://hashim-ali.work)
 
-I'm a passionate developer focusing on awesome projects.
+### 📖 About Me
+- 👨‍💻 17 year old software nerd
+- 🌐 does web stuff mostly
+- 🎨 can design stuff in figma
+- 🐧 uses Arch btw
 
----
-
-## My Latest Projects:
-- **hashim-cpro/killer-instincts**
-  * Description: 
-  * Stars: 1 ⭐
-  * URL: https://github.com/hashim-cpro/killer-instincts
-- **hashim-cpro/markdown-to-html-converter**
-  * Description: 
-  * Stars: 0 ⭐
-  * URL: https://github.com/hashim-cpro/markdown-to-html-converter
-- **hashim-cpro/pawmap**
-  * Description: 
-  * Stars: 1 ⭐
-  * URL: https://github.com/hashim-cpro/pawmap
-- **hashim-cpro/redux-to-appwrite-sync**
-  * Description: 
-  * Stars: 0 ⭐
-  * URL: https://github.com/hashim-cpro/redux-to-appwrite-sync
-- **hashim-cpro/meeting-confirmation**
-  * Description: 
-  * Stars: 0 ⭐
-  * URL: https://github.com/hashim-cpro/meeting-confirmation
-
----
-
-## Recent Activity:
-
-### Latest Contributions:
+#### 👷‍♂️ Latest Contributions:
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (1 month ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (3 months ago)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (3 months ago)
 
-### Latest Pull Requests:
+#### 🧑‍💻 Latest Pull Requests:
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (OPEN): today
 - [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 3 months ago
 - [hackclub/map: Improve Map Accessibility with Local Language Translations and Set Max Zoom Level](https://github.com/hackclub/map/pull/12) (MERGED): 6 months ago
 
-
+#### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
-
-
 💾 Languages:
-JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.97%
-JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.34%
-HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.30%
-Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.79%
-Markdown        12h 32m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.74%
+JavaScript      104h 48m     ███████████░░░░░░░░░░░░░░  47.82%
+JSX             66h 18m      ███████░░░░░░░░░░░░░░░░░░  30.25%
+HTML            15h 57m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.28%
+Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.76%
+Markdown        12h 47m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.84%
 
-Total: 218h 30m 54s
-
-
+Total: 219h 10m 47s
 ```
+#### 📮 Want to Contact me? (I don't bite)
+```
+email: hashimcpro@gmail.com
+slack: Hashim (hackclub.com/slack)
+```
+_readme auto updates on the hour via:_ [markscribe](https://github.com/hashim-cpro/markscribe)
 
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=hashim-cpro.hashim-cpro&left_color=green&right_color=red" alt="visitors">
 
-_This README is automatically generated using [markscribe](https://github.com/muesli/markscribe). Last updated: today_
+</div>
