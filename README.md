@@ -7,14 +7,14 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 days ago)
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (4 days ago)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (1 month ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (3 months ago)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) - A community driven web app to help map stray animals (3 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (OPEN): 3 days ago
+- [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (OPEN): 4 days ago
 - [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 3 months ago
 - [hackclub/map: Improve Map Accessibility with Local Language Translations and Set Max Zoom Level](https://github.com/hackclub/map/pull/12) (MERGED): 6 months ago
 
