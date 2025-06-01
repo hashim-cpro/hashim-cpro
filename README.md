@@ -7,9 +7,9 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (today)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 week ago)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (2 months ago)
-- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (3 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (4 months ago)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) - A community driven web app to help map stray animals (4 months ago)
 
