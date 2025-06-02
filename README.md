@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/3d-portfolio](https://github.com/hashim-cpro/3d-portfolio) - My very own 3d portfolio (today)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (1 day ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 week ago)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (4 months ago)
-- [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) - A community driven web app to help map stray animals (4 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 1 week ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      105h 34m     ███████████░░░░░░░░░░░░░░  47.75%
-JSX             66h 22m      ███████░░░░░░░░░░░░░░░░░░  30.02%
+JavaScript      105h 34m     ███████████░░░░░░░░░░░░░░  47.74%
+JSX             66h 22m      ███████░░░░░░░░░░░░░░░░░░  30.01%
 HTML            15h 59m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.23%
-Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
-Markdown        13h 3m       █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.70%
+Markdown        13h 5m       █░░░░░░░░░░░░░░░░░░░░░░░░   5.92%
 
-Total: 221h 6m 43s
+Total: 221h 9m 5s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
