@@ -7,8 +7,8 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/3d-portfolio](https://github.com/hashim-cpro/3d-portfolio) - My very own 3d portfolio (1 day ago)
-- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 days ago)
+- [hashim-cpro/3d-portfolio](https://github.com/hashim-cpro/3d-portfolio) - My very own 3d portfolio (2 days ago)
+- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (3 days ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 week ago)
 - [hashim-cpro/hashim-baloch.github.io](https://github.com/hashim-cpro/hashim-baloch.github.io) -  (2 months ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (4 months ago)
