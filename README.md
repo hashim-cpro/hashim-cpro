@@ -7,10 +7,10 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (today)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (1 week ago)
 - [hashim-cpro/3d-portfolio](https://github.com/hashim-cpro/3d-portfolio) - My very own 3d portfolio (2 weeks ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (2 weeks ago)
-- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
 - [hackclub/juice](https://github.com/hackclub/juice) - 🧃 2 month game jam followed by popup cafe in Shanghai, China (4 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      108h 30m     ███████████░░░░░░░░░░░░░░  47.69%
-JSX             67h 14m      ███████░░░░░░░░░░░░░░░░░░  29.56%
+JavaScript      108h 30m     ███████████░░░░░░░░░░░░░░  47.68%
+JSX             67h 14m      ███████░░░░░░░░░░░░░░░░░░  29.55%
 HTML            16h 31m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.26%
 Figma           14h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
-Markdown        13h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.02%
+Markdown        13h 43m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.04%
 
-Total: 227h 30m 49s
+Total: 227h 32m 49s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
