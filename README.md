@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (4 weeks ago)
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (1 month ago)
 - [hashim-cpro/3d-portfolio](https://github.com/hashim-cpro/3d-portfolio) - My very own 3d portfolio (1 month ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (1 month ago)
