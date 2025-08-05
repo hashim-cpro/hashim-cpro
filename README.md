@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (1 day ago)
+- [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (today)
 - [hashim-cpro/zmk-config](https://github.com/hashim-cpro/zmk-config) -  (4 days ago)
 - [hashim-cpro/hackpad](https://github.com/hashim-cpro/hackpad) - 9 key macropad with 1 rotatory encoder and a OLED! (1 week ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      126h 17m     ████████████░░░░░░░░░░░░░  48.31%
-JSX             67h 57m      ██████░░░░░░░░░░░░░░░░░░░  25.99%
-Markdown        20h 49m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.96%
+JavaScript      126h 17m     ████████████░░░░░░░░░░░░░  48.29%
+JSX             67h 57m      ██████░░░░░░░░░░░░░░░░░░░  25.98%
+Markdown        20h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.99%
 HTML            16h 39m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.37%
 Figma           15h 47m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.04%
 
-Total: 261h 25m 52s
+Total: 261h 31m 35s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
