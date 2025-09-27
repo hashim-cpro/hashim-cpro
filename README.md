@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/daydream-game](https://github.com/hashim-cpro/daydream-game) - name undecided (today)
+- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - name undecided (today)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
 - [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (4 weeks ago)
 - [hashim-cpro/zmk-config](https://github.com/hashim-cpro/zmk-config) -  (1 month ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      152h 34m     ████████████░░░░░░░░░░░░░  50.35%
-JSX             68h 20m      █████░░░░░░░░░░░░░░░░░░░░  22.55%
-Markdown        25h 24m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.38%
-Figma           17h 19m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.72%
-HTML            16h 39m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.50%
+JavaScript      152h 34m     ████████████░░░░░░░░░░░░░  50.29%
+JSX             68h 20m      █████░░░░░░░░░░░░░░░░░░░░  22.53%
+Markdown        25h 24m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.37%
+Figma           17h 19m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
+HTML            16h 39m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
 
-Total: 303h 2m 33s
+Total: 303h 23m 17s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
