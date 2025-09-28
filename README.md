@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - name undecided (today)
+- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - name undecided (1 day ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
 - [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (4 weeks ago)
 - [hashim-cpro/zmk-config](https://github.com/hashim-cpro/zmk-config) -  (1 month ago)
