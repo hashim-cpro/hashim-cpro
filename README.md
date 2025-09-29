@@ -7,15 +7,15 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - name undecided (1 day ago)
+- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - name undecided (2 days ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
-- [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (4 weeks ago)
+- [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) -  (1 month ago)
 - [hashim-cpro/zmk-config](https://github.com/hashim-cpro/zmk-config) -  (1 month ago)
 - [hashim-cpro/hackpad](https://github.com/hashim-cpro/hackpad) - 9 key macropad with 1 rotatory encoder and a OLED! (2 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 4 months ago
-- [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 7 months ago
+- [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 8 months ago
 - [hackclub/map: Improve Map Accessibility with Local Language Translations and Set Max Zoom Level](https://github.com/hackclub/map/pull/12) (MERGED): 10 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
