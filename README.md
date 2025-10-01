@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (3 days ago)
+- [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (4 days ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
 - [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) - This is a wireless 65% modular keyboard with magnetic modules, hot swappable sockets and rgb (1 month ago)
 - [hashim-cpro/zmk-config](https://github.com/hashim-cpro/zmk-config) -  (2 months ago)
