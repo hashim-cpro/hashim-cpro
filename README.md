@@ -7,8 +7,8 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) -  (today)
-- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (4 days ago)
+- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) -  (1 day ago)
+- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (5 days ago)
 - [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (1 week ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
 - [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) - This is a wireless 65% modular keyboard with magnetic modules, hot swappable sockets and rgb (1 month ago)
