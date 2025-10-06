@@ -7,8 +7,8 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) -  (today)
-- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) -  (1 day ago)
+- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (today)
+- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) -  (today)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (5 days ago)
 - [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (1 week ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      157h 8m      ████████████░░░░░░░░░░░░░  49.74%
-JSX             72h 28m      █████░░░░░░░░░░░░░░░░░░░░  22.94%
-Markdown        27h 2m       ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
-HTML            17h 32m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
-Figma           17h 24m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
+JavaScript      157h 14m     ████████████░░░░░░░░░░░░░  49.73%
+JSX             72h 30m      █████░░░░░░░░░░░░░░░░░░░░  22.93%
+Markdown        27h 10m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
+HTML            17h 35m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Figma           17h 24m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.50%
 
-Total: 315h 55m 37s
+Total: 316h 13m 52s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
