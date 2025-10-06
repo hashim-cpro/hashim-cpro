@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) -  (today)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) -  (1 day ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (5 days ago)
 - [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (1 week ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
-- [hashim-cpro/Modular-Keyboard](https://github.com/hashim-cpro/Modular-Keyboard) - This is a wireless 65% modular keyboard with magnetic modules, hot swappable sockets and rgb (1 month ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 4 months ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      157h 4m      ████████████░░░░░░░░░░░░░  49.77%
-JSX             72h 26m      █████░░░░░░░░░░░░░░░░░░░░  22.95%
-Markdown        26h 56m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.54%
+JavaScript      157h 8m      ████████████░░░░░░░░░░░░░  49.74%
+JSX             72h 28m      █████░░░░░░░░░░░░░░░░░░░░  22.94%
+Markdown        27h 2m       ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
+HTML            17h 32m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.55%
 Figma           17h 24m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.51%
-HTML            17h 21m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.50%
 
-Total: 315h 36m 31s
+Total: 315h 55m 37s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
