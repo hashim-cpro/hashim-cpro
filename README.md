@@ -7,9 +7,9 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (today)
-- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (today)
-- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (5 days ago)
+- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (1 day ago)
+- [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (1 day ago)
+- [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (6 days ago)
 - [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (1 week ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
 
