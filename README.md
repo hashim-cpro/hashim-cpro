@@ -14,7 +14,7 @@
 - [hashim-cpro/Between-life-and-loss](https://github.com/hashim-cpro/Between-life-and-loss) - This is a game that we made for daydream lahore(a game jam) in less then 6 hours (3 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 1 week ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 2 weeks ago
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 4 months ago
 - [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 8 months ago
 
