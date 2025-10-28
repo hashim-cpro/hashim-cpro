@@ -7,14 +7,14 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (5 days ago)
+- [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (6 days ago)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (2 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (2 weeks ago)
 - [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (3 weeks ago)
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (3 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 2 weeks ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 3 weeks ago
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 5 months ago
 - [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 8 months ago
 
