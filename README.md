@@ -14,9 +14,9 @@
 - [hashim-cpro/killer-instincts](https://github.com/hashim-cpro/killer-instincts) -  (1 month ago)
 
 #### 🧑‍💻 Latest Pull Requests:
+- [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): today
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 3 weeks ago
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 5 months ago
-- [hackclub/juice: Add  Killer Instincts](https://github.com/hackclub/juice/pull/248) (MERGED): 9 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
