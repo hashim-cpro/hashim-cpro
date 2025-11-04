@@ -7,15 +7,15 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (today)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (1 day ago)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (1 week ago)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (3 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (3 weeks ago)
 - [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (4 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): today
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 3 weeks ago
+- [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 1 day ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 4 weeks ago
 - [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 5 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
