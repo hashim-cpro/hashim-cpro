@@ -14,20 +14,20 @@
 - [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (4 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (OPEN): today
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 1 day ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 4 weeks ago
-- [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 5 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      165h 43m     ████████████░░░░░░░░░░░░░  49.73%
-Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.46%
+JavaScript      165h 54m     ████████████░░░░░░░░░░░░░  49.76%
+Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.45%
 Markdown        30h 16m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.08%
 Html            18h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
 Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.31%
 
-Total: 333h 15m 3s
+Total: 333h 26m 5s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
