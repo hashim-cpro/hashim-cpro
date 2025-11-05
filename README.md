@@ -7,15 +7,15 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hackclub/blueprint](https://github.com/hackclub/blueprint) -  (today)
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (1 day ago)
-- [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (1 week ago)
+- [hackclub/blueprint](https://github.com/hackclub/blueprint) -  (1 day ago)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (2 days ago)
+- [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (2 weeks ago)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (3 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (3 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): today
-- [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 1 day ago
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 day ago
+- [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 2 days ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 4 weeks ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
