@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (today)
 - [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (today)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (2 weeks ago)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (3 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (4 weeks ago)
-- [hashim-cpro/coin-clicker](https://github.com/hashim-cpro/coin-clicker) - coin clicker!  (1 month ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 4 days ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      167h 32m     ████████████░░░░░░░░░░░░░  49.86%
+JavaScript      167h 32m     ████████████░░░░░░░░░░░░░  49.85%
 Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.27%
-Markdown        30h 43m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.14%
+Markdown        30h 48m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
 Html            18h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
-Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
+Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
-Total: 336h 32s
+Total: 336h 5m 12s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
