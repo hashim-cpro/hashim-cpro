@@ -7,9 +7,9 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (today)
-- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (today)
 - [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (today)
+- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (today)
+- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (today)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (today)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (2 weeks ago)
 
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      167h 32m     ████████████░░░░░░░░░░░░░  49.85%
-Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.27%
-Markdown        30h 48m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.16%
-Html            18h 47m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+JavaScript      167h 34m     ████████████░░░░░░░░░░░░░  49.85%
+Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.26%
+Markdown        30h 50m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.17%
+Html            18h 48m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.60%
 Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
-Total: 336h 7m 12s
+Total: 336h 8m 17s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
