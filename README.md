@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (4 days ago)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (today)
 - [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (2 weeks ago)
 - [hashim-cpro/Space-Habitat-Creator](https://github.com/hashim-cpro/Space-Habitat-Creator) - A lightweight browser-based 3D sandbox for rapid interior & exterior space habitat layout design (3 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (4 weeks ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      167h 32m     ████████████░░░░░░░░░░░░░  49.91%
-Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.29%
-Markdown        30h 24m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.06%
-Html            18h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.59%
+JavaScript      167h 32m     ████████████░░░░░░░░░░░░░  49.86%
+Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  22.27%
+Markdown        30h 43m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.14%
+Html            18h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.58%
 Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.27%
 
-Total: 335h 41m 21s
+Total: 336h 32s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
