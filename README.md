@@ -7,16 +7,16 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (3 days ago)
 - [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (3 days ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (3 days ago)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (3 days ago)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (3 days ago)
-- [hashim-cpro/hashim-cpro.github.io](https://github.com/hashim-cpro/hashim-cpro.github.io) -  (2 weeks ago)
+- [hackclub/blueprint](https://github.com/hackclub/blueprint) -  (6 days ago)
 
 #### 🧑‍💻 Latest Pull Requests:
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 6 days ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 1 week ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 1 month ago
-- [hackclub/hackatime: Update markscribe template section in the settings to use a markscribe fork that supports hackatime natively](https://github.com/hackclub/hackatime/pull/258) (CLOSED): 5 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
