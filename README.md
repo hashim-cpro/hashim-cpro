@@ -7,10 +7,10 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (4 days ago)
-- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (4 days ago)
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (4 days ago)
-- [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (4 days ago)
+- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (5 days ago)
+- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (5 days ago)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (5 days ago)
+- [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (5 days ago)
 - [hackclub/blueprint](https://github.com/hackclub/blueprint) -  (1 week ago)
 
 #### 🧑‍💻 Latest Pull Requests:
