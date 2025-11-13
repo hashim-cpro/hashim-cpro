@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (6 days ago)
-- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (6 days ago)
-- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (6 days ago)
+- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (today)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (6 days ago)
-- [hackclub/blueprint](https://github.com/hackclub/blueprint) -  (1 week ago)
+- [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (6 days ago)
+- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (6 days ago)
+- [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (6 days ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 week ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      173h 12m     ████████████░░░░░░░░░░░░░  50.64%
-Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  21.88%
-Markdown        31h          ██░░░░░░░░░░░░░░░░░░░░░░░   9.07%
-Html            18h 48m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.50%
+JavaScript      173h 30m     ████████████░░░░░░░░░░░░░  50.69%
+Jsx             74h 50m      █████░░░░░░░░░░░░░░░░░░░░  21.86%
+Markdown        31h 2m       ██░░░░░░░░░░░░░░░░░░░░░░░   9.07%
+Html            18h 48m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.49%
 Figma           17h 41m      █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
 
-Total: 342h 1m 2s
+Total: 342h 19m 55s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
