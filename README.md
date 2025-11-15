@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (today)
+- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (1 day ago)
 - [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (1 week ago)
 - [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (1 week ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (1 week ago)
