@@ -7,14 +7,14 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (3 days ago)
+- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (4 days ago)
 - [hashim-cpro/tasavor](https://github.com/hashim-cpro/tasavor) -  (1 week ago)
 - [hashim-cpro/blinky-leds](https://github.com/hashim-cpro/blinky-leds) -  (1 week ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (1 week ago)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (1 week ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 week ago
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 2 weeks ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 2 weeks ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 1 month ago
 
