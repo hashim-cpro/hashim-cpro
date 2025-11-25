@@ -14,7 +14,7 @@
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) -  (2 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 2 weeks ago
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 3 weeks ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 3 weeks ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 1 month ago
 
