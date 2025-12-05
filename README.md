@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (4 days ago)
-- [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (5 days ago)
+- [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (5 days ago)
+- [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (6 days ago)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) - This is a rp2040 based devboard based on the pico dimensions with complete battery management! (1 week ago)
-- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (2 weeks ago)
-- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (3 weeks ago)
+- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (3 weeks ago)
+- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (4 weeks ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 month ago
