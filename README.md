@@ -9,7 +9,7 @@
 #### 👷‍♂️ Latest Contributions:
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (1 week ago)
 - [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (1 week ago)
-- [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) - This is a rp2040 based devboard based on the pico dimensions with complete battery management! (1 week ago)
+- [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) - This is a rp2040 based devboard based on the pico dimensions with complete battery management! (2 weeks ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (3 weeks ago)
 - [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (1 month ago)
 
