@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (today)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (2 weeks ago)
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (4 weeks ago)
 - [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (4 weeks ago)
 - [hashim-cpro/Custom-RP2040-based-Devboard](https://github.com/hashim-cpro/Custom-RP2040-based-Devboard) - This is a rp2040 based devboard based on the pico dimensions with complete battery management! (1 month ago)
-- [hashim-cpro/Reaction-Time-Tester](https://github.com/hashim-cpro/Reaction-Time-Tester) -  (1 month ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 month ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      204h 56m     █████████████░░░░░░░░░░░░  54.05%
-Jsx             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  19.77%
+JavaScript      204h 56m     █████████████░░░░░░░░░░░░  54.04%
+Jsx             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  19.76%
 Markdown        31h 51m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.40%
 HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.98%
 Figma           17h 50m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.71%
 
-Total: 379h 9m 26s
+Total: 379h 13m 26s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
