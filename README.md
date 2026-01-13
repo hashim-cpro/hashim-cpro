@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (2 days ago)
+- [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (today)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (1 month ago)
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (1 month ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      214h 26m     █████████████░░░░░░░░░░░░  55.08%
-Jsx             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  19.25%
-Markdown        32h 2m       ██░░░░░░░░░░░░░░░░░░░░░░░   8.23%
-HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.85%
-Figma           17h 50m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.58%
+JavaScript      216h 16m     █████████████░░░░░░░░░░░░  55.29%
+Jsx             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  19.16%
+Markdown        32h 2m       ██░░░░░░░░░░░░░░░░░░░░░░░   8.19%
+HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.83%
+Figma           17h 50m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.56%
 
-Total: 389h 20m 7s
+Total: 391h 10m 25s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
