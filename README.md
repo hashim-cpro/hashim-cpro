@@ -7,8 +7,8 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (4 days ago)
-- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 weeks ago)
+- [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (5 days ago)
+- [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 weeks ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (1 month ago)
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (1 month ago)
 - [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (1 month ago)
@@ -21,8 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
+JavaScript      219h 31m     █████████████░░░░░░░░░░░░  55.63%
+Jsx             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  18.99%
+Markdown        32h 20m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.20%
+HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.79%
+Figma           17h 50m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.52%
 
-Total: 
+Total: 394h 36m 57s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
