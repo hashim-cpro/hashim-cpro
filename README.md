@@ -10,7 +10,7 @@
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (2 weeks ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (1 month ago)
-- [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (1 month ago)
+- [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (2 months ago)
 - [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (2 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
