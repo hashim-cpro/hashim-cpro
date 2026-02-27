@@ -27,7 +27,7 @@ Markdown        33h 53m      ██░░░░░░░░░░░░░░░
 HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.66%
 Figma           17h 50m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.40%
 
-Total: 405h 46m 58s
+Total: 405h 48m 58s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
