@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (today)
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (1 month ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 months ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (2 months ago)
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (3 months ago)
-- [hashim-cpro/Modular-Keyboard-Assembly](https://github.com/hashim-cpro/Modular-Keyboard-Assembly) - This is a assembly journal for my keybaord (3 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 3 months ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      222h 3m      █████████████░░░░░░░░░░░░  54.24%
-JSX             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  18.31%
-Markdown        33h 53m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.28%
+JavaScript      222h 3m      █████████████░░░░░░░░░░░░  54.13%
+JSX             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  18.27%
+Markdown        33h 53m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.26%
 HTML            18h 53m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.61%
-GDScript3       17h 55m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
+GDScript3       18h 28m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.50%
 
-Total: 409h 23m 24s
+Total: 410h 12m 12s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
