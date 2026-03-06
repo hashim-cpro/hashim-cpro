@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (4 days ago)
+- [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (5 days ago)
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (1 month ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (2 months ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (2 months ago)
@@ -16,7 +16,7 @@
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 4 months ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 4 months ago
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 4 months ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 5 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
