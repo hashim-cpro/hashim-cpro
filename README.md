@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (4 weeks ago)
+- [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (1 month ago)
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (2 months ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 months ago)
 - [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (3 months ago)
@@ -21,8 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
+JavaScript      223h 54m     █████████████░░░░░░░░░░░░  52.89%
+JSX             74h 56m      ████░░░░░░░░░░░░░░░░░░░░░  17.70%
+Markdown        34h 33m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
+GDScript3       20h 42m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.89%
+Other           20h 8m       █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
 
-Total: 
+Total: 423h 21m 42s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
