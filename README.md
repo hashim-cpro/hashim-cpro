@@ -14,7 +14,7 @@
 - [hashim-cpro/sprig-v2](https://github.com/hashim-cpro/sprig-v2) -  (4 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 4 months ago
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 5 months ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 5 months ago
 - [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 5 months ago
 
