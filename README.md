@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/pawmap_](https://github.com/hashim-cpro/pawmap_) -  (3 days ago)
+- [hashim-cpro/pawmap_](https://github.com/hashim-cpro/pawmap_) -  (today)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (1 month ago)
 - [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (2 months ago)
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (4 months ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      238h 37m     ████████████░░░░░░░░░░░░░  49.91%
-JSX             75h 29m      ███░░░░░░░░░░░░░░░░░░░░░░  15.79%
-Other           56h 36m      ██░░░░░░░░░░░░░░░░░░░░░░░  11.84%
-Markdown        36h 19m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.60%
+JavaScript      238h 46m     ████████████░░░░░░░░░░░░░  49.92%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  15.79%
+Other           56h 38m      ██░░░░░░░░░░░░░░░░░░░░░░░  11.84%
+Markdown        36h 24m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.61%
 GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.34%
 
-Total: 478h 4m 11s
+Total: 478h 20m 33s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
