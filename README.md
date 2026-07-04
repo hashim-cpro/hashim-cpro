@@ -16,7 +16,7 @@
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 8 months ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 8 months ago
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 8 months ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 9 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
