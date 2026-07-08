@@ -1,7 +1,7 @@
 [![👋Hi there! I'm Hashim*](/assets/intro.gif "Go To hashim-ali.work")](https://hashim-ali.work)
 
 ### 📖 About Me
-- 👨‍💻 17 year old software nerd
+- 👨‍💻 18 year old software nerd
 - 🌐 does web stuff mostly
 - 🎨 can design stuff in figma
 - 🐧 uses Arch btw
