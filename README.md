@@ -1,7 +1,7 @@
 [![👋Hi there! I'm Hashim*](/assets/intro.gif "Go To hashim-ali.work")](https://hashim-ali.work)
 
 ### 📖 About Me
-- 👨‍💻 18 year old software nerd
+- 👨‍💻 17 year old software nerd
 - 🌐 does web stuff mostly
 - 🎨 can design stuff in figma
 - 🐧 uses Arch btw
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      244h 30m     ████████████░░░░░░░░░░░░░  49.61%
+JavaScript      244h 30m     ████████████░░░░░░░░░░░░░  49.60%
 JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  15.32%
 Other           62h 44m      ███░░░░░░░░░░░░░░░░░░░░░░  12.73%
-Markdown        37h 7m       █░░░░░░░░░░░░░░░░░░░░░░░░   7.53%
+Markdown        37h 9m       █░░░░░░░░░░░░░░░░░░░░░░░░   7.54%
 GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.21%
 
-Total: 492h 53m 47s
+Total: 492h 55m 47s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
