@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - a rasberry pi 5 case designed by me (today)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (1 month ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 months ago)
 - [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (4 months ago)
 - [hashim-cpro/tic-tac-toe](https://github.com/hashim-cpro/tic-tac-toe) - Tic tac toe in the terminal with SSH!  (5 months ago)
-- [hashim-cpro/NFC-Hacker-Card](https://github.com/hashim-cpro/NFC-Hacker-Card) -  (6 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 8 months ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      244h 30m     ████████████░░░░░░░░░░░░░  49.60%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  15.32%
-Other           62h 44m      ███░░░░░░░░░░░░░░░░░░░░░░  12.73%
-Markdown        37h 9m       █░░░░░░░░░░░░░░░░░░░░░░░░   7.54%
-GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.21%
+JavaScript      244h 30m     ████████████░░░░░░░░░░░░░  49.48%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  15.28%
+Other           62h 46m      ███░░░░░░░░░░░░░░░░░░░░░░  12.70%
+Markdown        37h 18m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.55%
+GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.20%
 
-Total: 492h 55m 47s
+Total: 494h 9m 48s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
