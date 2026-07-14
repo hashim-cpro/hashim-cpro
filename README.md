@@ -27,7 +27,7 @@ Other           63h 37m      ███░░░░░░░░░░░░░░
 Markdown        37h 34m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.57%
 GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.18%
 
-Total: 496h 12m 57s
+Total: 496h 15m 38s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
