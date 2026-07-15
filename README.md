@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - a rasberry pi 5 case designed by me (1 week ago)
+- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (1 week ago)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (1 month ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 months ago)
 - [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (4 months ago)
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      245h 52m     ████████████░░░░░░░░░░░░░  48.66%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  14.95%
-Other           63h 58m      ███░░░░░░░░░░░░░░░░░░░░░░  12.66%
-Markdown        37h 38m      █░░░░░░░░░░░░░░░░░░░░░░░░   7.45%
-GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.11%
+JavaScript      245h 52m     ████████████░░░░░░░░░░░░░  48.52%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  14.91%
+Other           64h 3m       ███░░░░░░░░░░░░░░░░░░░░░░  12.64%
+Markdown        39h 3m       █░░░░░░░░░░░░░░░░░░░░░░░░   7.71%
+GDScript3       20h 45m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.10%
 
-Total: 505h 19m 23s
+Total: 506h 43m 38s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
