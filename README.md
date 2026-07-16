@@ -7,7 +7,7 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (today)
+- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (1 day ago)
 - [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (1 month ago)
 - [hashim-cpro/React-POS](https://github.com/hashim-cpro/React-POS) - A POS that actually works.(sometimes) (3 months ago)
 - [hashim-cpro/campfire-game](https://github.com/hashim-cpro/campfire-game) -  (4 months ago)
