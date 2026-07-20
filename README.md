@@ -7,11 +7,11 @@
 - 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
+- [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (today)
 - [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (today)
 - [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (3 days ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (3 days ago)
 - [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (5 days ago)
-- [hashim-cpro/pawmap](https://github.com/hashim-cpro/pawmap) -  (2 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 8 months ago
@@ -21,13 +21,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      246h 10m     ███████████░░░░░░░░░░░░░░  46.96%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  14.41%
+JavaScript      246h 10m     ███████████░░░░░░░░░░░░░░  46.94%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  14.40%
 Other           64h 54m      ███░░░░░░░░░░░░░░░░░░░░░░  12.38%
-Markdown        42h 31m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.11%
+Markdown        42h 38m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.13%
 Lapse           22h 35m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
 
-Total: 524h 15m 41s
+Total: 524h 22m 59s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
