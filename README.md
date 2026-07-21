@@ -8,7 +8,7 @@
 
 #### 👷‍♂️ Latest Contributions:
 - [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (today)
-- [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (1 day ago)
+- [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (today)
 - [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (4 days ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (4 days ago)
 - [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (6 days ago)
@@ -24,10 +24,10 @@
 JavaScript      246h 10m     ███████████░░░░░░░░░░░░░░  46.94%
 JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  14.40%
 Other           64h 54m      ███░░░░░░░░░░░░░░░░░░░░░░  12.38%
-Markdown        42h 38m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.13%
+Markdown        42h 44m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.15%
 Lapse           22h 35m      █░░░░░░░░░░░░░░░░░░░░░░░░   4.31%
 
-Total: 524h 22m 59s
+Total: 524h 28m 51s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
