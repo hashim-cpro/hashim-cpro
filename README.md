@@ -27,7 +27,7 @@ Other           67h 5m       ███░░░░░░░░░░░░░░
 Markdown        44h 15m      ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
 Lapse           37h 59m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.94%
 
-Total: 547h 12m 34s
+Total: 547h 14m 34s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
