@@ -1,9 +1,10 @@
 [![👋Hi there! I'm Hashim*](/assets/intro.gif "Go To hashim-ali.work")](https://hashim-ali.work)
 
 ### 📖 About Me
+- 👨‍💻 17 year old software nerd
 - 🌐 does web stuff mostly
 - 🎨 can design stuff in figma
-- wannabe hardware guy
+- 🐧 uses Arch btw
 
 #### 👷‍♂️ Latest Contributions:
 - [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (3 weeks ago)
@@ -31,5 +32,6 @@ Total: 581h 17m 5s
 #### 📮 Want to Contact me? (I don't bite)
 ```
 email: hashimcpro@gmail.com
+slack: Hashim (hackclub.com/slack)
 ```
 _readme auto updates on the hour via: [markscribe](https://github.com/hashim-cpro/markscribe)_
