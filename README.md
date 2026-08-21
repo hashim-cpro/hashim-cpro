@@ -20,13 +20,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      267h 13m     ███████████░░░░░░░░░░░░░░  45.95%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.99%
-Other           70h 26m      ███░░░░░░░░░░░░░░░░░░░░░░  12.11%
+JavaScript      267h 13m     ███████████░░░░░░░░░░░░░░  45.94%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.98%
+Other           70h 29m      ███░░░░░░░░░░░░░░░░░░░░░░  12.12%
 Markdown        56h 36m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.73%
 Lapse           37h 59m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.53%
 
-Total: 581h 34m 55s
+Total: 581h 40m 25s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
