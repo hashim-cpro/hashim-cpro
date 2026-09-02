@@ -6,7 +6,7 @@
 - 🐧 wannabe hardware guy
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (2 days ago)
+- [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (3 days ago)
 - [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (1 month ago)
 - [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (1 month ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (1 month ago)
@@ -15,7 +15,7 @@
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 10 months ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 10 months ago
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 10 months ago
+- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 11 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
