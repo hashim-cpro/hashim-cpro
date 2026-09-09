@@ -6,7 +6,7 @@
 - 🐧 wannabe hardware guy
 
 #### 👷‍♂️ Latest Contributions:
-- [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (1 week ago)
+- [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (today)
 - [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (1 month ago)
 - [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (1 month ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (1 month ago)
@@ -20,13 +20,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      271h 40m     ███████████░░░░░░░░░░░░░░  45.05%
-Other           85h 37m      ███░░░░░░░░░░░░░░░░░░░░░░  14.20%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.53%
+JavaScript      271h 40m     ███████████░░░░░░░░░░░░░░  45.03%
+Other           85h 55m      ███░░░░░░░░░░░░░░░░░░░░░░  14.24%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.52%
 Markdown        58h 31m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.70%
 Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.45%
 
-Total: 603h 1m 19s
+Total: 603h 19m 58s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
