@@ -8,8 +8,8 @@
 #### 👷‍♂️ Latest Contributions:
 - [hashim-cpro/ultimate-keyboard](https://github.com/hashim-cpro/ultimate-keyboard) - The best keyboard!  (4 days ago)
 - [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (1 month ago)
-- [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (1 month ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (1 month ago)
+- [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (1 month ago)
 - [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (2 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
@@ -20,13 +20,13 @@
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      271h 40m     ███████████░░░░░░░░░░░░░░  44.96%
-Other           86h 44m      ███░░░░░░░░░░░░░░░░░░░░░░  14.35%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.50%
-Markdown        58h 40m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
-Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.44%
+JavaScript      272h 3m      ███████████░░░░░░░░░░░░░░  44.90%
+Other           87h 58m      ███░░░░░░░░░░░░░░░░░░░░░░  14.52%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.47%
+Markdown        58h 40m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
+Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
-Total: 604h 18m 42s
+Total: 605h 51m 9s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
