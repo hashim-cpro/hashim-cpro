@@ -15,18 +15,17 @@
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 10 months ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 10 months ago
-- [hackclub/site: remove som](https://github.com/hackclub/site/pull/1651) (CLOSED): 11 months ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
 ```
 💾 Languages:
-JavaScript      272h 12m     ███████████░░░░░░░░░░░░░░  44.90%
-Other           88h 13m      ███░░░░░░░░░░░░░░░░░░░░░░  14.55%
-JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.46%
-Markdown        58h 40m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
-Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
+JavaScript      272h 14m     ███████████░░░░░░░░░░░░░░  44.86%
+Other           88h 45m      ███░░░░░░░░░░░░░░░░░░░░░░  14.63%
+JSX             75h 31m      ███░░░░░░░░░░░░░░░░░░░░░░  12.45%
+Markdown        58h 40m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
+Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.41%
 
-Total: 606h 15m 27s
+Total: 606h 52m 39s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
