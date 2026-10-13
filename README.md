@@ -10,7 +10,7 @@
 - [hashim-cpro/usb-hub](https://github.com/hashim-cpro/usb-hub) -  (2 months ago)
 - [hashim-cpro/mouse](https://github.com/hashim-cpro/mouse) -  (2 months ago)
 - [hashim-cpro/onepad-case](https://github.com/hashim-cpro/onepad-case) -  (2 months ago)
-- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (2 months ago)
+- [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (3 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
 - [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 11 months ago
