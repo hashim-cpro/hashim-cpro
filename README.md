@@ -25,7 +25,7 @@ JSX             75h 31m      ███░░░░░░░░░░░░░░
 Markdown        59h 38m      ██░░░░░░░░░░░░░░░░░░░░░░░   9.67%
 Lapse           38h 54m      █░░░░░░░░░░░░░░░░░░░░░░░░   6.31%
 
-Total: 616h 36m 48s
+Total: 616h 38m 48s
 ```
 #### 📮 Want to Contact me? (I don't bite)
 ```
