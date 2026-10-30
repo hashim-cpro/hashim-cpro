@@ -13,7 +13,7 @@
 - [hashim-cpro/rasberrypi-5-case](https://github.com/hashim-cpro/rasberrypi-5-case) - A Rasberry pi 5 case with a custom wall mount.  (3 months ago)
 
 #### 🧑‍💻 Latest Pull Requests:
-- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 11 months ago
+- [hackclub/blueprint: fix typos in blinky leds guide](https://github.com/hackclub/blueprint/pull/130) (MERGED): 1 year ago
 - [hackclub/YSWS-Catalog: added moonshot and midnight](https://github.com/hackclub/YSWS-Catalog/pull/174) (MERGED): 1 year ago
 
 #### 📡 My All Time [Hackatime](https://hackatime.hackclub.com) Stats
